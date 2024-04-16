@@ -1,1 +1,1 @@
-# pixelVogue
+# Pixel Gallery Front-End
